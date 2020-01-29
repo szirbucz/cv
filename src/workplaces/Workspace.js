@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './Workspace.css';
 
 class Workspace extends Component {
     render() {

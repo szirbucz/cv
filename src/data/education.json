@@ -1,0 +1,120 @@
+[
+    {
+        "major": "Program Designer Mathematician, Master",
+        "school": "University of Szeged",
+        "date": "(2005-2011)",
+        "skills": [
+            {
+                "name": "Java, C/C++, C#, HTML, CSS, XML"
+            },
+            {
+                "name": "Databases (SQL, PL/SQL, normalization)"
+            },
+            {
+                "name": "Software Engineering Processes"
+            },
+            {
+                "name": "Formal Languages and Automata"
+            },
+            {
+                "name": "Artificial Intelligence"
+            },
+            {
+                "name": "Image Processing"
+            }
+        ]
+    },
+    {
+        "major": "Doctoral School of Computer Science, PhD",
+        "school": "University of Szeged",
+        "date": "(2011-2014)[unfinished]",
+        "skills": [
+            {
+                "name": "Software Metrics"
+            },
+            {
+                "name": "Reverse Engineering"
+            },
+            {
+                "name": "Refactoring"
+            },
+            {
+                "name": "Machine Learning"
+            },
+            {
+                "name": "Natural Language Processing"
+            },
+            {
+                "name": "Teaching experience:",
+                "subskills": [
+                    "Programming Languages (Smalltalk, Haskell, Prolog, Occam)",
+                    "Basics of Programming (C)",
+                    "Operating Systems (Bash & Bat scripting)",
+                    "Parallel Programming (Java concurrency, Occam, PVM)"
+                ]
+            }
+        ]
+    },
+    {
+        "major": "Java Academy",
+        "school": "EPAM Systems",
+        "date": "(2016)",
+        "skills": [
+            {
+                "name": "Java fundamentals"
+            },
+            {
+                "name": "Spring Framework / MVC / Data / Security"
+            },
+            {
+                "name": "Hibernate, JPA, SQL"
+            },
+            {
+                "name": "OOP Design Patterns and Principles"
+            },
+            {
+                "name": "Web Application Development"
+            },
+            {
+                "name": "Building Web Services"
+            },
+            {
+                "name": "Unit testing, Mocking, TDD"
+            },
+            {
+                "name": "Clean Code"
+            },
+            {
+                "name": "Agile Methodologies"
+            },
+            {
+                "name": "Front-End technologies"
+            },
+            {
+                "name": "Version Control and CI"
+            }
+        ]
+    },
+    {
+        "major": "Introduction to Management",
+        "school": "EPAM Systems",
+        "date": "(2017)",
+        "skills": [
+            {
+                "name": "Leadership and Team Building"
+            },
+            {
+                "name": "Motivation"
+            },
+            {
+                "name": "Time Management"
+            },
+            {
+                "name": "Negotiation"
+            },
+            {
+                "name": "Project and Delivery Management"
+            }
+        ]
+    }
+]
