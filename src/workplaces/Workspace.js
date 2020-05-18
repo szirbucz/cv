@@ -4,7 +4,7 @@ class Workspace extends Component {
     render() {
         return(
         <div class='workspace'>
-        <h3>{this.props.name}<span class='title'> - {this.props.title}</span> 
+        <h3>{this.props.name} <span class='location'>[{this.props.location}]</span><span class='title'> - {this.props.title}</span> 
             <span class="date"> ({this.props.start} - {this.props.end})</span></h3>
         <ul>
             {this.props.achievements.map(project => <div>

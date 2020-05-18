@@ -8,6 +8,11 @@
     color: #036;
 }
 
+.workspace .location {
+    font-style: italic;
+    color: #666;
+}
+
 .date {
     color: #666;
 }

@@ -3,6 +3,7 @@
         "name": "Kode Konveyor OÜ",
         "start": "2019-04-16",
         "title": "Lead Software Engineer",
+        "location": "Tallinn, Estonia (Remote)",
         "achievements": [
             {
                 "project": "Working out a new software development process to be able to involve remote workers with minor development experience into projects.",
@@ -21,6 +22,7 @@
         "start": "2016-05-02",
         "end": "2018-10-31",
         "title": "Lead Software Engineer",
+        "location": "Budapest, Hungary",
         "achievements": [
             {
                 "project": "I led the development of a performance review tool with Java Spring based back-end and AngularJS based front-end. We used Kanban methodology and continous deployment with Unit-, Integration-, E2E- and manual tests, static analysis, code coverage, style check and code review in its pipeline. We worked in cooperation with remote QA team and management.",
@@ -39,6 +41,7 @@
         "start": "2014-09-01",
         "end": "2016-04-29",
         "title": "Software Engineer",
+        "location": "Budapest, Hungary",
         "achievements": [
             {
                 "project": "Application layer proxy firewall",
@@ -56,6 +59,7 @@
         "start": "2013-09-01",
         "end": "2014-07-31",
         "title": "Software Engineer",
+        "location": "Saarbrücken, Germany",
         "achievements": [
             {
                 "project": "Development of GCC compiler backends for several embedded architectures.",
@@ -72,6 +76,7 @@
         "start": "2011-03-01",
         "end": "2013-08-30",
         "title": "Software Engineer",
+        "location": "Szeged, Hungary",
         "achievements": [
             {
                 "project": "Development of GCC compiler backends for several embedded architectures.",
@@ -87,6 +92,7 @@
         "start": "2008-05-05",
         "end": "2011-02-28",
         "title": "Software Engineer",
+        "location": "Szeged, Hungary",
         "achievements": [
             {
                 "project": "Implement Procedural Abstraction compiler optimization",
